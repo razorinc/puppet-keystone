@@ -11,4 +11,6 @@ else
   gem 'puppet', :require => false
 end
 
+gem 'rest-client'
+
 # vim:ft=ruby
